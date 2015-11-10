@@ -1,2 +1,2 @@
 # coursera-datascience
-coursera exercises
+coursera exercises 
